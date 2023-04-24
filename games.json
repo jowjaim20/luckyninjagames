@@ -81,6 +81,11 @@
     "saved": [],
     "previousResults": [
       {
+        "id": "042401",
+        "numbers": [23, 19, 24, 42, 13, 17],
+        "specialNumber": 0
+      },
+      {
         "id": "1",
         "numbers": [23, 19, 24, 42, 13, 16],
         "specialNumber": 0
