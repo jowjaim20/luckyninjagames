@@ -1,6 +1,7 @@
 [
   {
     "id": "mega",
+    "key": "mega",
     "maxCount": 5,
     "maxNumber": 70,
     "link": "https://www.usamega.com/mega-millions/results",
@@ -64,5 +65,447 @@
     "startZero": false,
     "specialNumberMax": 25,
     "saved": []
+  },
+  {
+    "id": "642lotto",
+    "key": "642lotto",
+    "maxCount": 6,
+    "maxNumber": 42,
+    "maxCountEuro": 0,
+    "maxNumberEuro": 0,
+    "name": "PH Lotto 6/42",
+    "link": "https://www.lottopcso.com/6-42-lotto-result-history-and-summary/",
+    "repeat": false,
+    "startZero": false,
+    "specialNumberMax": 0,
+    "saved": [],
+    "previousResults": [
+      {
+        "id": "1",
+        "numbers": [23, 19, 24, 42, 13, 16],
+        "specialNumber": 0
+      },
+      {
+        "id": "2",
+        "numbers": [42, 30, 5, 19, 4, 37],
+        "specialNumber": 0
+      },
+      {
+        "id": "3",
+        "numbers": [24, 34, 7, 16, 31, 33],
+        "specialNumber": 0
+      },
+      {
+        "id": "4",
+        "numbers": [42, 4, 33, 37, 16, 36],
+        "specialNumber": 0
+      },
+      {
+        "id": "5",
+        "numbers": [25, 3, 40, 13, 10, 31],
+        "specialNumber": 0
+      },
+      {
+        "id": "6",
+        "numbers": [13, 38, 37, 22, 20, 42],
+        "specialNumber": 0
+      },
+      {
+        "id": "7",
+        "numbers": [5, 35, 42, 2, 22, 20],
+        "specialNumber": 0
+      },
+      {
+        "id": "8",
+        "numbers": [20, 33, 17, 39, 34, 7],
+        "specialNumber": 0
+      },
+      {
+        "id": "9",
+        "numbers": [33, 16, 5, 22, 15, 37],
+        "specialNumber": 0
+      },
+      {
+        "id": "10",
+        "numbers": [3, 2, 13, 19, 23, 24],
+        "specialNumber": 0
+      },
+      {
+        "id": "11",
+        "numbers": [37, 34, 35, 13, 8, 12],
+        "specialNumber": 0
+      },
+      {
+        "id": "12",
+        "numbers": [15, 18, 21, 17, 34, 35],
+        "specialNumber": 0
+      },
+      {
+        "id": "13",
+        "numbers": [30, 38, 2, 36, 29, 13],
+        "specialNumber": 0
+      },
+      {
+        "id": "14",
+        "numbers": [3, 9, 12, 33, 22, 18],
+        "specialNumber": 0
+      },
+      {
+        "id": "15",
+        "numbers": [6, 18, 26, 29, 17, 11],
+        "specialNumber": 0
+      },
+      {
+        "id": "16",
+        "numbers": [34, 42, 3, 7, 16, 5],
+        "specialNumber": 0
+      },
+      {
+        "id": "17",
+        "numbers": [3, 6, 26, 37, 35, 18],
+        "specialNumber": 0
+      },
+      {
+        "id": "18",
+        "numbers": [21, 9, 23, 28, 19, 36],
+        "specialNumber": 0
+      },
+      {
+        "id": "19",
+        "numbers": [26, 14, 11, 8, 7, 22],
+        "specialNumber": 0
+      },
+      {
+        "id": "20",
+        "numbers": [37, 32, 28, 9, 34, 19],
+        "specialNumber": 0
+      },
+      {
+        "id": "21",
+        "numbers": [26, 2, 20, 41, 21, 40],
+        "specialNumber": 0
+      },
+      {
+        "id": "22",
+        "numbers": [36, 16, 39, 30, 41, 3],
+        "specialNumber": 0
+      },
+      {
+        "id": "23",
+        "numbers": [20, 25, 21, 33, 39, 36],
+        "specialNumber": 0
+      },
+      {
+        "id": "24",
+        "numbers": [42, 31, 38, 35, 2, 27],
+        "specialNumber": 0
+      },
+      {
+        "id": "25",
+        "numbers": [26, 16, 13, 10, 39, 19],
+        "specialNumber": 0
+      },
+      {
+        "id": "26",
+        "numbers": [1, 35, 21, 39, 34, 19],
+        "specialNumber": 0
+      },
+      {
+        "id": "27",
+        "numbers": [21, 18, 28, 20, 26, 17],
+        "specialNumber": 0
+      },
+      {
+        "id": "28",
+        "numbers": [30, 21, 14, 27, 22, 42],
+        "specialNumber": 0
+      },
+      {
+        "id": "29",
+        "numbers": [24, 30, 1, 27, 4, 23],
+        "specialNumber": 0
+      },
+      {
+        "id": "30",
+        "numbers": [2, 27, 16, 29, 4, 19],
+        "specialNumber": 0
+      },
+      {
+        "id": "31",
+        "numbers": [31, 41, 29, 25, 20, 8],
+        "specialNumber": 0
+      },
+      {
+        "id": "32",
+        "numbers": [14, 1, 26, 37, 20, 23],
+        "specialNumber": 0
+      },
+      {
+        "id": "33",
+        "numbers": [5, 12, 18, 24, 4, 17],
+        "specialNumber": 0
+      },
+      {
+        "id": "34",
+        "numbers": [14, 40, 30, 35, 42, 3],
+        "specialNumber": 0
+      },
+      {
+        "id": "35",
+        "numbers": [15, 19, 25, 9, 32, 11],
+        "specialNumber": 0
+      },
+      {
+        "id": "36",
+        "numbers": [23, 5, 29, 1, 31, 11],
+        "specialNumber": 0
+      },
+      {
+        "id": "37",
+        "numbers": [34, 24, 2, 6, 33, 7],
+        "specialNumber": 0
+      },
+      {
+        "id": "38",
+        "numbers": [41, 12, 31, 37, 34, 5],
+        "specialNumber": 0
+      },
+      {
+        "id": "39",
+        "numbers": [7, 42, 20, 5, 33, 31],
+        "specialNumber": 0
+      },
+      {
+        "id": "40",
+        "numbers": [16, 8, 1, 29, 4, 26],
+        "specialNumber": 0
+      },
+      {
+        "id": "41",
+        "numbers": [18, 13, 39, 35, 6, 5],
+        "specialNumber": 0
+      },
+      {
+        "id": "42",
+        "numbers": [36, 37, 32, 15, 39, 9],
+        "specialNumber": 0
+      },
+      {
+        "id": "43",
+        "numbers": [40, 25, 28, 13, 36, 39],
+        "specialNumber": 0
+      },
+      {
+        "id": "44",
+        "numbers": [],
+        "specialNumber": 0
+      },
+      {
+        "id": "48",
+        "numbers": [],
+        "specialNumber": 0
+      }
+    ]
+  },
+  {
+    "id": "655lotto",
+    "key": "655lotto",
+    "maxCount": 6,
+    "maxNumber": 55,
+    "maxCountEuro": 0,
+    "maxNumberEuro": 0,
+    "name": "PH Lotto 6/55",
+    "link": "https://www.lottopcso.com/6-55-lotto-result-history-and-summary/",
+    "repeat": false,
+    "startZero": false,
+    "specialNumberMax": 0,
+    "saved": [],
+    "previousResults": [
+      {
+        "id": "1",
+        "numbers": [53, 2, 5, 41, 9, 51],
+        "specialNumber": 0
+      },
+      {
+        "id": "2",
+        "numbers": [20, 2, 52, 13, 44, 45],
+        "specialNumber": 0
+      },
+      {
+        "id": "3",
+        "numbers": [29, 13, 53, 27, 54, 23],
+        "specialNumber": 0
+      },
+      {
+        "id": "4",
+        "numbers": [51, 19, 41, 14, 35, 20],
+        "specialNumber": 0
+      },
+      {
+        "id": "5",
+        "numbers": [7, 10, 9, 55, 28, 18],
+        "specialNumber": 0
+      },
+      {
+        "id": "6",
+        "numbers": [23, 28, 25, 24, 36, 30],
+        "specialNumber": 0
+      },
+      {
+        "id": "7",
+        "numbers": [5, 15, 43, 6, 22, 18],
+        "specialNumber": 0
+      },
+      {
+        "id": "8",
+        "numbers": [21, 37, 33, 34, 55, 25],
+        "specialNumber": 0
+      },
+      {
+        "id": "9",
+        "numbers": [5, 33, 49, 47, 28, 42],
+        "specialNumber": 0
+      },
+      {
+        "id": "10",
+        "numbers": [26, 23, 34, 41, 45, 29],
+        "specialNumber": 0
+      },
+      {
+        "id": "11",
+        "numbers": [36, 38, 47, 43, 28, 15],
+        "specialNumber": 0
+      },
+      {
+        "id": "12",
+        "numbers": [49, 53, 3, 31, 22, 8],
+        "specialNumber": 0
+      },
+      {
+        "id": "13",
+        "numbers": [25, 50, 49, 38, 21, 19],
+        "specialNumber": 0
+      },
+      {
+        "id": "14",
+        "numbers": [7, 50, 38, 34, 51, 22],
+        "specialNumber": 0
+      },
+      {
+        "id": "15",
+        "numbers": [26, 3, 43, 10, 54, 14],
+        "specialNumber": 0
+      },
+      {
+        "id": "16",
+        "numbers": [1, 24, 39, 6, 53, 40],
+        "specialNumber": 0
+      },
+      {
+        "id": "17",
+        "numbers": [16, 21, 25, 29, 15, 6],
+        "specialNumber": 0
+      },
+      {
+        "id": "18",
+        "numbers": [45, 29, 12, 3, 26, 51],
+        "specialNumber": 0
+      },
+      {
+        "id": "19",
+        "numbers": [48, 36, 42, 55, 11, 22],
+        "specialNumber": 0
+      },
+      {
+        "id": "20",
+        "numbers": [14, 29, 9, 6, 38, 15],
+        "specialNumber": 0
+      },
+      {
+        "id": "21",
+        "numbers": [53, 48, 40, 23, 24, 2],
+        "specialNumber": 0
+      },
+      {
+        "id": "22",
+        "numbers": [8, 26, 17, 41, 37, 4],
+        "specialNumber": 0
+      },
+      {
+        "id": "23",
+        "numbers": [9, 8, 5, 1, 30, 52],
+        "specialNumber": 0
+      },
+      {
+        "id": "24",
+        "numbers": [44, 32, 31, 41, 29, 46],
+        "specialNumber": 0
+      },
+      {
+        "id": "25",
+        "numbers": [34, 33, 50, 17, 27, 13],
+        "specialNumber": 0
+      },
+      {
+        "id": "26",
+        "numbers": [15, 20, 8, 28, 19, 5],
+        "specialNumber": 0
+      },
+      {
+        "id": "27",
+        "numbers": [55, 44, 3, 14, 41, 16],
+        "specialNumber": 0
+      },
+      {
+        "id": "28",
+        "numbers": [7, 25, 15, 22, 44, 54],
+        "specialNumber": 0
+      },
+      {
+        "id": "29",
+        "numbers": [17, 15, 40, 42, 38, 51],
+        "specialNumber": 0
+      },
+      {
+        "id": "30",
+        "numbers": [4, 25, 21, 53, 23, 27],
+        "specialNumber": 0
+      },
+      {
+        "id": "31",
+        "numbers": [32, 19, 43, 27, 29, 45],
+        "specialNumber": 0
+      },
+      {
+        "id": "32",
+        "numbers": [24, 4, 40, 46, 38, 21],
+        "specialNumber": 0
+      },
+      {
+        "id": "33",
+        "numbers": [8, 17, 12, 1, 35, 3],
+        "specialNumber": 0
+      },
+      {
+        "id": "34",
+        "numbers": [40, 8, 45, 6, 23, 41],
+        "specialNumber": 0
+      },
+      {
+        "id": "35",
+        "numbers": [3, 15, 27, 35, 16, 51],
+        "specialNumber": 0
+      },
+      {
+        "id": "36",
+        "numbers": [10, 34, 28, 46, 4, 14],
+        "specialNumber": 0
+      },
+      {
+        "id": "37",
+        "numbers": [40, 30, 44, 33, 51, 27],
+        "specialNumber": 0
+      }
+    ]
   }
 ]
