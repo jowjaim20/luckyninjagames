@@ -5,7 +5,7 @@
     "maxCount": 5,
     "maxNumber": 70,
     "link": "https://www.usamega.com/mega-millions/results",
-    "name": "Mega Millions test213",
+    "name": "Mega Millions",
     "previousResults": [
       { "id": "230401", "numbers": [3, 21, 29, 46, 63], "specialNumber": 9 },
       { "id": "230402", "numbers": [7, 9, 15, 19, 25], "specialNumber": 4 },
