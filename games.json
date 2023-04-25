@@ -397,6 +397,7 @@
     "specialNumberMax": 26,
     "saved": [],
     "previousResults": [
+      { "id": "240401", "numbers": [19, 21, 55, 66, 68], "specialNumber": 3 },
       { "id": "230401", "numbers": [17, 36, 47, 63, 68], "specialNumber": 25 },
       { "id": "230402", "numbers": [4, 11, 21, 38, 64], "specialNumber": 11 },
       { "id": "230403", "numbers": [23, 25, 35, 63, 64], "specialNumber": 25 },
