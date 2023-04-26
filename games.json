@@ -82,6 +82,13 @@
     "saved": [],
     "previousResults": [
       {
+        "id": "04262301",
+        "numbers": [10, 29, 30, 40, 45],
+        "numbersEuro": [1, 12],
+        "specialNumber": 0
+      },
+
+      {
         "id": "1",
         "numbers": [7, 8, 18, 33, 42],
         "numbersEuro": [2, 8],
