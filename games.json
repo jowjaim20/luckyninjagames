@@ -82,12 +82,11 @@
     "saved": [],
     "previousResults": [
       {
-        "id": "04262301",
+        "id": "6019c778-b042-410a-ae87-b0a26e1ef928",
         "numbers": [10, 29, 30, 40, 45],
-        "numbersEuro": [1, 12],
-        "specialNumber": 0
+        "specialNumber": 0,
+        "numbersEuro": [1, 12]
       },
-
       {
         "id": "1",
         "numbers": [7, 8, 18, 33, 42],
@@ -358,7 +357,6 @@
         "numbersEuro": [1, 11],
         "specialNumber": 0
       },
-
       {
         "id": "46",
         "numbers": [13, 21, 24, 31, 33],
@@ -405,6 +403,11 @@
     "specialNumberMax": 26,
     "saved": [],
     "previousResults": [
+      {
+        "id": "d2b18a90-c3cd-45e0-8e0e-baa03406f058",
+        "numbers": [2, 15, 30, 35, 49],
+        "specialNumber": 6
+      },
       { "id": "240401", "numbers": [19, 21, 55, 66, 68], "specialNumber": 3 },
       { "id": "230401", "numbers": [17, 36, 47, 63, 68], "specialNumber": 25 },
       { "id": "230402", "numbers": [4, 11, 21, 38, 64], "specialNumber": 11 },
@@ -490,222 +493,49 @@
         "numbers": [42, 21, 1, 36, 23, 37],
         "specialNumber": 0
       },
-
-      {
-        "id": "1",
-        "numbers": [23, 19, 24, 42, 13, 16],
-        "specialNumber": 0
-      },
-      {
-        "id": "2",
-        "numbers": [42, 30, 5, 19, 4, 37],
-        "specialNumber": 0
-      },
-      {
-        "id": "3",
-        "numbers": [24, 34, 7, 16, 31, 33],
-        "specialNumber": 0
-      },
-      {
-        "id": "4",
-        "numbers": [42, 4, 33, 37, 16, 36],
-        "specialNumber": 0
-      },
-      {
-        "id": "5",
-        "numbers": [25, 3, 40, 13, 10, 31],
-        "specialNumber": 0
-      },
-      {
-        "id": "6",
-        "numbers": [13, 38, 37, 22, 20, 42],
-        "specialNumber": 0
-      },
-      {
-        "id": "7",
-        "numbers": [5, 35, 42, 2, 22, 20],
-        "specialNumber": 0
-      },
-      {
-        "id": "8",
-        "numbers": [20, 33, 17, 39, 34, 7],
-        "specialNumber": 0
-      },
-      {
-        "id": "9",
-        "numbers": [33, 16, 5, 22, 15, 37],
-        "specialNumber": 0
-      },
-      {
-        "id": "10",
-        "numbers": [3, 2, 13, 19, 23, 24],
-        "specialNumber": 0
-      },
-      {
-        "id": "11",
-        "numbers": [37, 34, 35, 13, 8, 12],
-        "specialNumber": 0
-      },
-      {
-        "id": "12",
-        "numbers": [15, 18, 21, 17, 34, 35],
-        "specialNumber": 0
-      },
-      {
-        "id": "13",
-        "numbers": [30, 38, 2, 36, 29, 13],
-        "specialNumber": 0
-      },
-      {
-        "id": "14",
-        "numbers": [3, 9, 12, 33, 22, 18],
-        "specialNumber": 0
-      },
-      {
-        "id": "15",
-        "numbers": [6, 18, 26, 29, 17, 11],
-        "specialNumber": 0
-      },
-      {
-        "id": "16",
-        "numbers": [34, 42, 3, 7, 16, 5],
-        "specialNumber": 0
-      },
-      {
-        "id": "17",
-        "numbers": [3, 6, 26, 37, 35, 18],
-        "specialNumber": 0
-      },
-      {
-        "id": "18",
-        "numbers": [21, 9, 23, 28, 19, 36],
-        "specialNumber": 0
-      },
-      {
-        "id": "19",
-        "numbers": [26, 14, 11, 8, 7, 22],
-        "specialNumber": 0
-      },
-      {
-        "id": "20",
-        "numbers": [37, 32, 28, 9, 34, 19],
-        "specialNumber": 0
-      },
-      {
-        "id": "21",
-        "numbers": [26, 2, 20, 41, 21, 40],
-        "specialNumber": 0
-      },
-      {
-        "id": "22",
-        "numbers": [36, 16, 39, 30, 41, 3],
-        "specialNumber": 0
-      },
-      {
-        "id": "23",
-        "numbers": [20, 25, 21, 33, 39, 36],
-        "specialNumber": 0
-      },
-      {
-        "id": "24",
-        "numbers": [42, 31, 38, 35, 2, 27],
-        "specialNumber": 0
-      },
-      {
-        "id": "25",
-        "numbers": [26, 16, 13, 10, 39, 19],
-        "specialNumber": 0
-      },
-      {
-        "id": "26",
-        "numbers": [1, 35, 21, 39, 34, 19],
-        "specialNumber": 0
-      },
-      {
-        "id": "27",
-        "numbers": [21, 18, 28, 20, 26, 17],
-        "specialNumber": 0
-      },
-      {
-        "id": "28",
-        "numbers": [30, 21, 14, 27, 22, 42],
-        "specialNumber": 0
-      },
-      {
-        "id": "29",
-        "numbers": [24, 30, 1, 27, 4, 23],
-        "specialNumber": 0
-      },
-      {
-        "id": "30",
-        "numbers": [2, 27, 16, 29, 4, 19],
-        "specialNumber": 0
-      },
-      {
-        "id": "31",
-        "numbers": [31, 41, 29, 25, 20, 8],
-        "specialNumber": 0
-      },
-      {
-        "id": "32",
-        "numbers": [14, 1, 26, 37, 20, 23],
-        "specialNumber": 0
-      },
-      {
-        "id": "33",
-        "numbers": [5, 12, 18, 24, 4, 17],
-        "specialNumber": 0
-      },
-      {
-        "id": "34",
-        "numbers": [14, 40, 30, 35, 42, 3],
-        "specialNumber": 0
-      },
-      {
-        "id": "35",
-        "numbers": [15, 19, 25, 9, 32, 11],
-        "specialNumber": 0
-      },
-      {
-        "id": "36",
-        "numbers": [23, 5, 29, 1, 31, 11],
-        "specialNumber": 0
-      },
-      {
-        "id": "37",
-        "numbers": [34, 24, 2, 6, 33, 7],
-        "specialNumber": 0
-      },
-      {
-        "id": "38",
-        "numbers": [41, 12, 31, 37, 34, 5],
-        "specialNumber": 0
-      },
-      {
-        "id": "39",
-        "numbers": [7, 42, 20, 5, 33, 31],
-        "specialNumber": 0
-      },
-      {
-        "id": "40",
-        "numbers": [16, 8, 1, 29, 4, 26],
-        "specialNumber": 0
-      },
-      {
-        "id": "41",
-        "numbers": [18, 13, 39, 35, 6, 5],
-        "specialNumber": 0
-      },
-      {
-        "id": "42",
-        "numbers": [36, 37, 32, 15, 39, 9],
-        "specialNumber": 0
-      },
-      {
-        "id": "43",
-        "numbers": [40, 25, 28, 13, 36, 39],
-        "specialNumber": 0
-      }
+      { "id": "1", "numbers": [23, 19, 24, 42, 13, 16], "specialNumber": 0 },
+      { "id": "2", "numbers": [42, 30, 5, 19, 4, 37], "specialNumber": 0 },
+      { "id": "3", "numbers": [24, 34, 7, 16, 31, 33], "specialNumber": 0 },
+      { "id": "4", "numbers": [42, 4, 33, 37, 16, 36], "specialNumber": 0 },
+      { "id": "5", "numbers": [25, 3, 40, 13, 10, 31], "specialNumber": 0 },
+      { "id": "6", "numbers": [13, 38, 37, 22, 20, 42], "specialNumber": 0 },
+      { "id": "7", "numbers": [5, 35, 42, 2, 22, 20], "specialNumber": 0 },
+      { "id": "8", "numbers": [20, 33, 17, 39, 34, 7], "specialNumber": 0 },
+      { "id": "9", "numbers": [33, 16, 5, 22, 15, 37], "specialNumber": 0 },
+      { "id": "10", "numbers": [3, 2, 13, 19, 23, 24], "specialNumber": 0 },
+      { "id": "11", "numbers": [37, 34, 35, 13, 8, 12], "specialNumber": 0 },
+      { "id": "12", "numbers": [15, 18, 21, 17, 34, 35], "specialNumber": 0 },
+      { "id": "13", "numbers": [30, 38, 2, 36, 29, 13], "specialNumber": 0 },
+      { "id": "14", "numbers": [3, 9, 12, 33, 22, 18], "specialNumber": 0 },
+      { "id": "15", "numbers": [6, 18, 26, 29, 17, 11], "specialNumber": 0 },
+      { "id": "16", "numbers": [34, 42, 3, 7, 16, 5], "specialNumber": 0 },
+      { "id": "17", "numbers": [3, 6, 26, 37, 35, 18], "specialNumber": 0 },
+      { "id": "18", "numbers": [21, 9, 23, 28, 19, 36], "specialNumber": 0 },
+      { "id": "19", "numbers": [26, 14, 11, 8, 7, 22], "specialNumber": 0 },
+      { "id": "20", "numbers": [37, 32, 28, 9, 34, 19], "specialNumber": 0 },
+      { "id": "21", "numbers": [26, 2, 20, 41, 21, 40], "specialNumber": 0 },
+      { "id": "22", "numbers": [36, 16, 39, 30, 41, 3], "specialNumber": 0 },
+      { "id": "23", "numbers": [20, 25, 21, 33, 39, 36], "specialNumber": 0 },
+      { "id": "24", "numbers": [42, 31, 38, 35, 2, 27], "specialNumber": 0 },
+      { "id": "25", "numbers": [26, 16, 13, 10, 39, 19], "specialNumber": 0 },
+      { "id": "26", "numbers": [1, 35, 21, 39, 34, 19], "specialNumber": 0 },
+      { "id": "27", "numbers": [21, 18, 28, 20, 26, 17], "specialNumber": 0 },
+      { "id": "28", "numbers": [30, 21, 14, 27, 22, 42], "specialNumber": 0 },
+      { "id": "29", "numbers": [24, 30, 1, 27, 4, 23], "specialNumber": 0 },
+      { "id": "30", "numbers": [2, 27, 16, 29, 4, 19], "specialNumber": 0 },
+      { "id": "31", "numbers": [31, 41, 29, 25, 20, 8], "specialNumber": 0 },
+      { "id": "32", "numbers": [14, 1, 26, 37, 20, 23], "specialNumber": 0 },
+      { "id": "33", "numbers": [5, 12, 18, 24, 4, 17], "specialNumber": 0 },
+      { "id": "34", "numbers": [14, 40, 30, 35, 42, 3], "specialNumber": 0 },
+      { "id": "35", "numbers": [15, 19, 25, 9, 32, 11], "specialNumber": 0 },
+      { "id": "36", "numbers": [23, 5, 29, 1, 31, 11], "specialNumber": 0 },
+      { "id": "37", "numbers": [34, 24, 2, 6, 33, 7], "specialNumber": 0 },
+      { "id": "38", "numbers": [41, 12, 31, 37, 34, 5], "specialNumber": 0 },
+      { "id": "39", "numbers": [7, 42, 20, 5, 33, 31], "specialNumber": 0 },
+      { "id": "40", "numbers": [16, 8, 1, 29, 4, 26], "specialNumber": 0 },
+      { "id": "41", "numbers": [18, 13, 39, 35, 6, 5], "specialNumber": 0 },
+      { "id": "42", "numbers": [36, 37, 32, 15, 39, 9], "specialNumber": 0 },
+      { "id": "43", "numbers": [40, 25, 28, 13, 36, 39], "specialNumber": 0 }
     ]
   },
   {
@@ -813,232 +643,51 @@
         "numbers": [35, 46, 7, 10, 41, 40],
         "specialNumber": 0
       },
-      {
-        "id": "1",
-        "numbers": [49, 23, 6, 30, 7, 9],
-        "specialNumber": 0
-      },
-      {
-        "id": "2",
-        "numbers": [48, 4, 21, 44, 35, 34],
-        "specialNumber": 0
-      },
-      {
-        "id": "3",
-        "numbers": [36, 11, 43, 44, 38, 21],
-        "specialNumber": 0
-      },
-      {
-        "id": "4",
-        "numbers": [48, 19, 10, 17, 47, 49],
-        "specialNumber": 0
-      },
-      {
-        "id": "5",
-        "numbers": [39, 36, 30, 40, 1, 47],
-        "specialNumber": 0
-      },
-      {
-        "id": "6",
-        "numbers": [2, 47, 21, 10, 26, 38],
-        "specialNumber": 0
-      },
-      {
-        "id": "7",
-        "numbers": [15, 32, 21, 45, 11, 22],
-        "specialNumber": 0
-      },
-
-      {
-        "id": "8",
-        "numbers": [30, 47, 25, 43, 33, 32],
-        "specialNumber": 0
-      },
-      {
-        "id": "9",
-        "numbers": [46, 11, 19, 31, 21, 17],
-        "specialNumber": 0
-      },
-      {
-        "id": "10",
-        "numbers": [30, 16, 42, 5, 31, 21],
-        "specialNumber": 0
-      },
-      {
-        "id": "11",
-        "numbers": [17, 15, 7, 9, 13, 3],
-        "specialNumber": 0
-      },
-      {
-        "id": "12",
-        "numbers": [12, 29, 35, 34, 13, 8],
-        "specialNumber": 0
-      },
-      {
-        "id": "13",
-        "numbers": [45, 1, 13, 43, 16, 20],
-        "specialNumber": 0
-      },
-      {
-        "id": "14",
-        "numbers": [9, 27, 47, 7, 32, 46],
-        "specialNumber": 0
-      },
-      {
-        "id": "15",
-        "numbers": [37, 4, 20, 39, 23, 15],
-        "specialNumber": 0
-      },
-      {
-        "id": "16",
-        "numbers": [7, 34, 29, 47, 12, 4],
-        "specialNumber": 0
-      },
-      {
-        "id": "17",
-        "numbers": [30, 37, 32, 7, 26, 38],
-        "specialNumber": 0
-      },
-      {
-        "id": "18",
-        "numbers": [13, 42, 23, 44, 6, 11],
-        "specialNumber": 0
-      },
-      {
-        "id": "19",
-        "numbers": [30, 46, 31, 45, 10, 8],
-        "specialNumber": 0
-      },
-      {
-        "id": "20",
-        "numbers": [20, 30, 35, 28, 18, 21],
-        "specialNumber": 0
-      },
-      {
-        "id": "21",
-        "numbers": [22, 49, 17, 29, 2, 28],
-        "specialNumber": 0
-      },
-      {
-        "id": "22",
-        "numbers": [17, 32, 34, 1, 13, 41],
-        "specialNumber": 0
-      },
-      {
-        "id": "23",
-        "numbers": [42, 37, 9, 1, 11, 8],
-        "specialNumber": 0
-      },
-      {
-        "id": "24",
-        "numbers": [1, 19, 4, 48, 2, 40],
-        "specialNumber": 0
-      },
-      {
-        "id": "25",
-        "numbers": [47, 46, 35, 25, 15, 4],
-        "specialNumber": 0
-      },
-      {
-        "id": "26",
-        "numbers": [39, 43, 16, 42, 48, 15],
-        "specialNumber": 0
-      },
-      {
-        "id": "27",
-        "numbers": [42, 23, 7, 37, 39, 45],
-        "specialNumber": 0
-      },
-      {
-        "id": "28",
-        "numbers": [24, 41, 49, 32, 30, 12],
-        "specialNumber": 0
-      },
-      {
-        "id": "29",
-        "numbers": [3, 15, 40, 43, 24, 30],
-        "specialNumber": 0
-      },
-      {
-        "id": "30",
-        "numbers": [32, 44, 6, 31, 28, 29],
-        "specialNumber": 0
-      },
-      {
-        "id": "31",
-        "numbers": [12, 32, 21, 35, 18, 40],
-        "specialNumber": 0
-      },
-      {
-        "id": "32",
-        "numbers": [30, 9, 38, 4, 47, 44],
-        "specialNumber": 0
-      },
-      {
-        "id": "33",
-        "numbers": [46, 19, 44, 22, 31, 13],
-        "specialNumber": 0
-      },
-      {
-        "id": "34",
-        "numbers": [34, 39, 10, 43, 5, 11],
-        "specialNumber": 0
-      },
-      {
-        "id": "35",
-        "numbers": [44, 45, 41, 22, 39, 38],
-        "specialNumber": 0
-      },
-      {
-        "id": "36",
-        "numbers": [22, 13, 18, 6, 47, 32],
-        "specialNumber": 0
-      },
-      {
-        "id": "37",
-        "numbers": [14, 24, 38, 37, 16, 2],
-        "specialNumber": 0
-      },
-      {
-        "id": "38",
-        "numbers": [17, 19, 31, 13, 47, 34],
-        "specialNumber": 0
-      },
-      {
-        "id": "39",
-        "numbers": [19, 24, 3, 18, 33, 49],
-        "specialNumber": 0
-      },
-      {
-        "id": "40",
-        "numbers": [4, 42, 8, 10, 29, 22],
-        "specialNumber": 0
-      },
-      {
-        "id": "41",
-        "numbers": [1, 32, 19, 36, 22, 46],
-        "specialNumber": 0
-      },
-      {
-        "id": "42",
-        "numbers": [21, 40, 23, 8, 47, 4],
-        "specialNumber": 0
-      },
-      {
-        "id": "43",
-        "numbers": [37, 17, 7, 19, 47, 41],
-        "specialNumber": 0
-      },
-      {
-        "id": "44",
-        "numbers": [19, 32, 49, 36, 7, 34],
-        "specialNumber": 0
-      },
-      {
-        "id": "45",
-        "numbers": [28, 49, 10, 5, 39, 12],
-        "specialNumber": 0
-      }
+      { "id": "1", "numbers": [49, 23, 6, 30, 7, 9], "specialNumber": 0 },
+      { "id": "2", "numbers": [48, 4, 21, 44, 35, 34], "specialNumber": 0 },
+      { "id": "3", "numbers": [36, 11, 43, 44, 38, 21], "specialNumber": 0 },
+      { "id": "4", "numbers": [48, 19, 10, 17, 47, 49], "specialNumber": 0 },
+      { "id": "5", "numbers": [39, 36, 30, 40, 1, 47], "specialNumber": 0 },
+      { "id": "6", "numbers": [2, 47, 21, 10, 26, 38], "specialNumber": 0 },
+      { "id": "7", "numbers": [15, 32, 21, 45, 11, 22], "specialNumber": 0 },
+      { "id": "8", "numbers": [30, 47, 25, 43, 33, 32], "specialNumber": 0 },
+      { "id": "9", "numbers": [46, 11, 19, 31, 21, 17], "specialNumber": 0 },
+      { "id": "10", "numbers": [30, 16, 42, 5, 31, 21], "specialNumber": 0 },
+      { "id": "11", "numbers": [17, 15, 7, 9, 13, 3], "specialNumber": 0 },
+      { "id": "12", "numbers": [12, 29, 35, 34, 13, 8], "specialNumber": 0 },
+      { "id": "13", "numbers": [45, 1, 13, 43, 16, 20], "specialNumber": 0 },
+      { "id": "14", "numbers": [9, 27, 47, 7, 32, 46], "specialNumber": 0 },
+      { "id": "15", "numbers": [37, 4, 20, 39, 23, 15], "specialNumber": 0 },
+      { "id": "16", "numbers": [7, 34, 29, 47, 12, 4], "specialNumber": 0 },
+      { "id": "17", "numbers": [30, 37, 32, 7, 26, 38], "specialNumber": 0 },
+      { "id": "18", "numbers": [13, 42, 23, 44, 6, 11], "specialNumber": 0 },
+      { "id": "19", "numbers": [30, 46, 31, 45, 10, 8], "specialNumber": 0 },
+      { "id": "20", "numbers": [20, 30, 35, 28, 18, 21], "specialNumber": 0 },
+      { "id": "21", "numbers": [22, 49, 17, 29, 2, 28], "specialNumber": 0 },
+      { "id": "22", "numbers": [17, 32, 34, 1, 13, 41], "specialNumber": 0 },
+      { "id": "23", "numbers": [42, 37, 9, 1, 11, 8], "specialNumber": 0 },
+      { "id": "24", "numbers": [1, 19, 4, 48, 2, 40], "specialNumber": 0 },
+      { "id": "25", "numbers": [47, 46, 35, 25, 15, 4], "specialNumber": 0 },
+      { "id": "26", "numbers": [39, 43, 16, 42, 48, 15], "specialNumber": 0 },
+      { "id": "27", "numbers": [42, 23, 7, 37, 39, 45], "specialNumber": 0 },
+      { "id": "28", "numbers": [24, 41, 49, 32, 30, 12], "specialNumber": 0 },
+      { "id": "29", "numbers": [3, 15, 40, 43, 24, 30], "specialNumber": 0 },
+      { "id": "30", "numbers": [32, 44, 6, 31, 28, 29], "specialNumber": 0 },
+      { "id": "31", "numbers": [12, 32, 21, 35, 18, 40], "specialNumber": 0 },
+      { "id": "32", "numbers": [30, 9, 38, 4, 47, 44], "specialNumber": 0 },
+      { "id": "33", "numbers": [46, 19, 44, 22, 31, 13], "specialNumber": 0 },
+      { "id": "34", "numbers": [34, 39, 10, 43, 5, 11], "specialNumber": 0 },
+      { "id": "35", "numbers": [44, 45, 41, 22, 39, 38], "specialNumber": 0 },
+      { "id": "36", "numbers": [22, 13, 18, 6, 47, 32], "specialNumber": 0 },
+      { "id": "37", "numbers": [14, 24, 38, 37, 16, 2], "specialNumber": 0 },
+      { "id": "38", "numbers": [17, 19, 31, 13, 47, 34], "specialNumber": 0 },
+      { "id": "39", "numbers": [19, 24, 3, 18, 33, 49], "specialNumber": 0 },
+      { "id": "40", "numbers": [4, 42, 8, 10, 29, 22], "specialNumber": 0 },
+      { "id": "41", "numbers": [1, 32, 19, 36, 22, 46], "specialNumber": 0 },
+      { "id": "42", "numbers": [21, 40, 23, 8, 47, 4], "specialNumber": 0 },
+      { "id": "43", "numbers": [37, 17, 7, 19, 47, 41], "specialNumber": 0 },
+      { "id": "44", "numbers": [19, 32, 49, 36, 7, 34], "specialNumber": 0 },
+      { "id": "45", "numbers": [28, 49, 10, 5, 39, 12], "specialNumber": 0 }
     ]
   },
   {
@@ -1065,191 +714,43 @@
         "numbers": [44, 26, 51, 11, 21, 45],
         "specialNumber": 0
       },
-      {
-        "id": "1",
-        "numbers": [53, 2, 5, 41, 9, 51],
-        "specialNumber": 0
-      },
-      {
-        "id": "2",
-        "numbers": [20, 2, 52, 13, 44, 45],
-        "specialNumber": 0
-      },
-      {
-        "id": "3",
-        "numbers": [29, 13, 53, 27, 54, 23],
-        "specialNumber": 0
-      },
-      {
-        "id": "4",
-        "numbers": [51, 19, 41, 14, 35, 20],
-        "specialNumber": 0
-      },
-      {
-        "id": "5",
-        "numbers": [7, 10, 9, 55, 28, 18],
-        "specialNumber": 0
-      },
-      {
-        "id": "6",
-        "numbers": [23, 28, 25, 24, 36, 30],
-        "specialNumber": 0
-      },
-      {
-        "id": "7",
-        "numbers": [5, 15, 43, 6, 22, 18],
-        "specialNumber": 0
-      },
-      {
-        "id": "8",
-        "numbers": [21, 37, 33, 34, 55, 25],
-        "specialNumber": 0
-      },
-      {
-        "id": "9",
-        "numbers": [5, 33, 49, 47, 28, 42],
-        "specialNumber": 0
-      },
-      {
-        "id": "10",
-        "numbers": [26, 23, 34, 41, 45, 29],
-        "specialNumber": 0
-      },
-      {
-        "id": "11",
-        "numbers": [36, 38, 47, 43, 28, 15],
-        "specialNumber": 0
-      },
-      {
-        "id": "12",
-        "numbers": [49, 53, 3, 31, 22, 8],
-        "specialNumber": 0
-      },
-      {
-        "id": "13",
-        "numbers": [25, 50, 49, 38, 21, 19],
-        "specialNumber": 0
-      },
-      {
-        "id": "14",
-        "numbers": [7, 50, 38, 34, 51, 22],
-        "specialNumber": 0
-      },
-      {
-        "id": "15",
-        "numbers": [26, 3, 43, 10, 54, 14],
-        "specialNumber": 0
-      },
-      {
-        "id": "16",
-        "numbers": [1, 24, 39, 6, 53, 40],
-        "specialNumber": 0
-      },
-      {
-        "id": "17",
-        "numbers": [16, 21, 25, 29, 15, 6],
-        "specialNumber": 0
-      },
-      {
-        "id": "18",
-        "numbers": [45, 29, 12, 3, 26, 51],
-        "specialNumber": 0
-      },
-      {
-        "id": "19",
-        "numbers": [48, 36, 42, 55, 11, 22],
-        "specialNumber": 0
-      },
-      {
-        "id": "20",
-        "numbers": [14, 29, 9, 6, 38, 15],
-        "specialNumber": 0
-      },
-      {
-        "id": "21",
-        "numbers": [53, 48, 40, 23, 24, 2],
-        "specialNumber": 0
-      },
-      {
-        "id": "22",
-        "numbers": [8, 26, 17, 41, 37, 4],
-        "specialNumber": 0
-      },
-      {
-        "id": "23",
-        "numbers": [9, 8, 5, 1, 30, 52],
-        "specialNumber": 0
-      },
-      {
-        "id": "24",
-        "numbers": [44, 32, 31, 41, 29, 46],
-        "specialNumber": 0
-      },
-      {
-        "id": "25",
-        "numbers": [34, 33, 50, 17, 27, 13],
-        "specialNumber": 0
-      },
-      {
-        "id": "26",
-        "numbers": [15, 20, 8, 28, 19, 5],
-        "specialNumber": 0
-      },
-      {
-        "id": "27",
-        "numbers": [55, 44, 3, 14, 41, 16],
-        "specialNumber": 0
-      },
-      {
-        "id": "28",
-        "numbers": [7, 25, 15, 22, 44, 54],
-        "specialNumber": 0
-      },
-      {
-        "id": "29",
-        "numbers": [17, 15, 40, 42, 38, 51],
-        "specialNumber": 0
-      },
-      {
-        "id": "30",
-        "numbers": [4, 25, 21, 53, 23, 27],
-        "specialNumber": 0
-      },
-      {
-        "id": "31",
-        "numbers": [32, 19, 43, 27, 29, 45],
-        "specialNumber": 0
-      },
-      {
-        "id": "32",
-        "numbers": [24, 4, 40, 46, 38, 21],
-        "specialNumber": 0
-      },
-      {
-        "id": "33",
-        "numbers": [8, 17, 12, 1, 35, 3],
-        "specialNumber": 0
-      },
-      {
-        "id": "34",
-        "numbers": [40, 8, 45, 6, 23, 41],
-        "specialNumber": 0
-      },
-      {
-        "id": "35",
-        "numbers": [3, 15, 27, 35, 16, 51],
-        "specialNumber": 0
-      },
-      {
-        "id": "36",
-        "numbers": [10, 34, 28, 46, 4, 14],
-        "specialNumber": 0
-      },
-      {
-        "id": "37",
-        "numbers": [40, 30, 44, 33, 51, 27],
-        "specialNumber": 0
-      }
+      { "id": "1", "numbers": [53, 2, 5, 41, 9, 51], "specialNumber": 0 },
+      { "id": "2", "numbers": [20, 2, 52, 13, 44, 45], "specialNumber": 0 },
+      { "id": "3", "numbers": [29, 13, 53, 27, 54, 23], "specialNumber": 0 },
+      { "id": "4", "numbers": [51, 19, 41, 14, 35, 20], "specialNumber": 0 },
+      { "id": "5", "numbers": [7, 10, 9, 55, 28, 18], "specialNumber": 0 },
+      { "id": "6", "numbers": [23, 28, 25, 24, 36, 30], "specialNumber": 0 },
+      { "id": "7", "numbers": [5, 15, 43, 6, 22, 18], "specialNumber": 0 },
+      { "id": "8", "numbers": [21, 37, 33, 34, 55, 25], "specialNumber": 0 },
+      { "id": "9", "numbers": [5, 33, 49, 47, 28, 42], "specialNumber": 0 },
+      { "id": "10", "numbers": [26, 23, 34, 41, 45, 29], "specialNumber": 0 },
+      { "id": "11", "numbers": [36, 38, 47, 43, 28, 15], "specialNumber": 0 },
+      { "id": "12", "numbers": [49, 53, 3, 31, 22, 8], "specialNumber": 0 },
+      { "id": "13", "numbers": [25, 50, 49, 38, 21, 19], "specialNumber": 0 },
+      { "id": "14", "numbers": [7, 50, 38, 34, 51, 22], "specialNumber": 0 },
+      { "id": "15", "numbers": [26, 3, 43, 10, 54, 14], "specialNumber": 0 },
+      { "id": "16", "numbers": [1, 24, 39, 6, 53, 40], "specialNumber": 0 },
+      { "id": "17", "numbers": [16, 21, 25, 29, 15, 6], "specialNumber": 0 },
+      { "id": "18", "numbers": [45, 29, 12, 3, 26, 51], "specialNumber": 0 },
+      { "id": "19", "numbers": [48, 36, 42, 55, 11, 22], "specialNumber": 0 },
+      { "id": "20", "numbers": [14, 29, 9, 6, 38, 15], "specialNumber": 0 },
+      { "id": "21", "numbers": [53, 48, 40, 23, 24, 2], "specialNumber": 0 },
+      { "id": "22", "numbers": [8, 26, 17, 41, 37, 4], "specialNumber": 0 },
+      { "id": "23", "numbers": [9, 8, 5, 1, 30, 52], "specialNumber": 0 },
+      { "id": "24", "numbers": [44, 32, 31, 41, 29, 46], "specialNumber": 0 },
+      { "id": "25", "numbers": [34, 33, 50, 17, 27, 13], "specialNumber": 0 },
+      { "id": "26", "numbers": [15, 20, 8, 28, 19, 5], "specialNumber": 0 },
+      { "id": "27", "numbers": [55, 44, 3, 14, 41, 16], "specialNumber": 0 },
+      { "id": "28", "numbers": [7, 25, 15, 22, 44, 54], "specialNumber": 0 },
+      { "id": "29", "numbers": [17, 15, 40, 42, 38, 51], "specialNumber": 0 },
+      { "id": "30", "numbers": [4, 25, 21, 53, 23, 27], "specialNumber": 0 },
+      { "id": "31", "numbers": [32, 19, 43, 27, 29, 45], "specialNumber": 0 },
+      { "id": "32", "numbers": [24, 4, 40, 46, 38, 21], "specialNumber": 0 },
+      { "id": "33", "numbers": [8, 17, 12, 1, 35, 3], "specialNumber": 0 },
+      { "id": "34", "numbers": [40, 8, 45, 6, 23, 41], "specialNumber": 0 },
+      { "id": "35", "numbers": [3, 15, 27, 35, 16, 51], "specialNumber": 0 },
+      { "id": "36", "numbers": [10, 34, 28, 46, 4, 14], "specialNumber": 0 },
+      { "id": "37", "numbers": [40, 30, 44, 33, 51, 27], "specialNumber": 0 }
     ]
   },
   {
@@ -1267,215 +768,51 @@
     "saved": [],
     "previousResults": [
       {
-        "id": "04252301",
+        "id": "73f50bdf-b517-44f8-bf87-f81d3890d5f2",
         "numbers": [31, 53, 10, 32, 43, 45],
         "specialNumber": 0
       },
-      {
-        "id": "042401",
-        "numbers": [25, 57, 3, 58, 9, 36],
-        "specialNumber": 0
-      },
-      {
-        "id": "1",
-        "numbers": [44, 39, 23, 25, 21, 42],
-        "specialNumber": 0
-      },
-      {
-        "id": "2",
-        "numbers": [48, 34, 8, 4, 13, 53],
-        "specialNumber": 0
-      },
-      {
-        "id": "3",
-        "numbers": [21, 17, 20, 46, 54, 56],
-        "specialNumber": 0
-      },
-      {
-        "id": "4",
-        "numbers": [34, 3, 46, 42, 52, 54],
-        "specialNumber": 0
-      },
-      {
-        "id": "5",
-        "numbers": [41, 55, 20, 32, 47, 57],
-        "specialNumber": 0
-      },
-      {
-        "id": "6",
-        "numbers": [39, 43, 34, 52, 24, 35],
-        "specialNumber": 0
-      },
-      {
-        "id": "7",
-        "numbers": [57, 26, 21, 52, 42, 3],
-        "specialNumber": 0
-      },
-      {
-        "id": "8",
-        "numbers": [30, 36, 5, 32, 51, 13],
-        "specialNumber": 0
-      },
-      {
-        "id": "9",
-        "numbers": [2, 55, 38, 34, 9, 24],
-        "specialNumber": 0
-      },
-      {
-        "id": "10",
-        "numbers": [50, 38, 39, 40, 35, 51],
-        "specialNumber": 0
-      },
-      {
-        "id": "11",
-        "numbers": [37, 36, 13, 58, 33, 50],
-        "specialNumber": 0
-      },
-      {
-        "id": "12",
-        "numbers": [7, 14, 52, 51, 53, 48],
-        "specialNumber": 0
-      },
-      {
-        "id": "13",
-        "numbers": [56, 14, 50, 26, 55, 48],
-        "specialNumber": 0
-      },
-      {
-        "id": "14",
-        "numbers": [31, 20, 17, 42, 52, 53],
-        "specialNumber": 0
-      },
-      {
-        "id": "15",
-        "numbers": [17, 27, 48, 41, 58, 52],
-        "specialNumber": 0
-      },
-      {
-        "id": "16",
-        "numbers": [13, 30, 10, 22, 2, 15],
-        "specialNumber": 0
-      },
-      {
-        "id": "17",
-        "numbers": [48, 45, 43, 29, 25, 5],
-        "specialNumber": 0
-      },
-      {
-        "id": "18",
-        "numbers": [56, 41, 11, 48, 54, 58],
-        "specialNumber": 0
-      },
-      {
-        "id": "19",
-        "numbers": [50, 55, 40, 22, 9, 53],
-        "specialNumber": 0
-      },
-      {
-        "id": "20",
-        "numbers": [10, 28, 41, 13, 55, 20],
-        "specialNumber": 0
-      },
-      {
-        "id": "21",
-        "numbers": [36, 49, 40, 19, 15, 48],
-        "specialNumber": 0
-      },
-      {
-        "id": "22",
-        "numbers": [46, 30, 25, 40, 11, 35],
-        "specialNumber": 0
-      },
-      {
-        "id": "23",
-        "numbers": [8, 2, 45, 28, 47, 19],
-        "specialNumber": 0
-      },
-      {
-        "id": "24",
-        "numbers": [22, 35, 47, 15, 14, 3],
-        "specialNumber": 0
-      },
-      {
-        "id": "25",
-        "numbers": [11, 33, 37, 54, 1, 26],
-        "specialNumber": 0
-      },
-      {
-        "id": "26",
-        "numbers": [19, 5, 26, 27, 58, 35],
-        "specialNumber": 0
-      },
-      {
-        "id": "27",
-        "numbers": [58, 32, 33, 19, 37, 53],
-        "specialNumber": 0
-      },
-      {
-        "id": "28",
-        "numbers": [48, 12, 35, 37, 33, 22],
-        "specialNumber": 0
-      },
-      {
-        "id": "29",
-        "numbers": [39, 23, 29, 24, 47, 30],
-        "specialNumber": 0
-      },
-      {
-        "id": "30",
-        "numbers": [23, 27, 58, 47, 9, 29],
-        "specialNumber": 0
-      },
-      {
-        "id": "31",
-        "numbers": [49, 42, 14, 7, 16, 30],
-        "specialNumber": 0
-      },
-      {
-        "id": "32",
-        "numbers": [21, 11, 23, 29, 9, 50],
-        "specialNumber": 0
-      },
-      {
-        "id": "33",
-        "numbers": [20, 47, 33, 14, 2, 29],
-        "specialNumber": 0
-      },
-      {
-        "id": "34",
-        "numbers": [37, 41, 50, 47, 57, 10],
-        "specialNumber": 0
-      },
-      {
-        "id": "35",
-        "numbers": [6, 25, 34, 43, 21, 24],
-        "specialNumber": 0
-      },
-      {
-        "id": "36",
-        "numbers": [24, 35, 18, 43, 49, 22],
-        "specialNumber": 0
-      },
-      {
-        "id": "37",
-        "numbers": [41, 27, 34, 38, 13, 16],
-        "specialNumber": 0
-      },
-      {
-        "id": "38",
-        "numbers": [24, 39, 31, 19, 42, 13],
-        "specialNumber": 0
-      },
-      {
-        "id": "39",
-        "numbers": [45, 32, 30, 34, 27, 39],
-        "specialNumber": 0
-      },
-      {
-        "id": "40",
-        "numbers": [45, 16, 43, 38, 2, 3],
-        "specialNumber": 0
-      }
+      { "id": "042401", "numbers": [25, 57, 3, 58, 9, 36], "specialNumber": 0 },
+      { "id": "1", "numbers": [44, 39, 23, 25, 21, 42], "specialNumber": 0 },
+      { "id": "2", "numbers": [48, 34, 8, 4, 13, 53], "specialNumber": 0 },
+      { "id": "3", "numbers": [21, 17, 20, 46, 54, 56], "specialNumber": 0 },
+      { "id": "4", "numbers": [34, 3, 46, 42, 52, 54], "specialNumber": 0 },
+      { "id": "5", "numbers": [41, 55, 20, 32, 47, 57], "specialNumber": 0 },
+      { "id": "6", "numbers": [39, 43, 34, 52, 24, 35], "specialNumber": 0 },
+      { "id": "7", "numbers": [57, 26, 21, 52, 42, 3], "specialNumber": 0 },
+      { "id": "8", "numbers": [30, 36, 5, 32, 51, 13], "specialNumber": 0 },
+      { "id": "9", "numbers": [2, 55, 38, 34, 9, 24], "specialNumber": 0 },
+      { "id": "10", "numbers": [50, 38, 39, 40, 35, 51], "specialNumber": 0 },
+      { "id": "11", "numbers": [37, 36, 13, 58, 33, 50], "specialNumber": 0 },
+      { "id": "12", "numbers": [7, 14, 52, 51, 53, 48], "specialNumber": 0 },
+      { "id": "13", "numbers": [56, 14, 50, 26, 55, 48], "specialNumber": 0 },
+      { "id": "14", "numbers": [31, 20, 17, 42, 52, 53], "specialNumber": 0 },
+      { "id": "15", "numbers": [17, 27, 48, 41, 58, 52], "specialNumber": 0 },
+      { "id": "16", "numbers": [13, 30, 10, 22, 2, 15], "specialNumber": 0 },
+      { "id": "17", "numbers": [48, 45, 43, 29, 25, 5], "specialNumber": 0 },
+      { "id": "18", "numbers": [56, 41, 11, 48, 54, 58], "specialNumber": 0 },
+      { "id": "19", "numbers": [50, 55, 40, 22, 9, 53], "specialNumber": 0 },
+      { "id": "20", "numbers": [10, 28, 41, 13, 55, 20], "specialNumber": 0 },
+      { "id": "21", "numbers": [36, 49, 40, 19, 15, 48], "specialNumber": 0 },
+      { "id": "22", "numbers": [46, 30, 25, 40, 11, 35], "specialNumber": 0 },
+      { "id": "23", "numbers": [8, 2, 45, 28, 47, 19], "specialNumber": 0 },
+      { "id": "24", "numbers": [22, 35, 47, 15, 14, 3], "specialNumber": 0 },
+      { "id": "25", "numbers": [11, 33, 37, 54, 1, 26], "specialNumber": 0 },
+      { "id": "26", "numbers": [19, 5, 26, 27, 58, 35], "specialNumber": 0 },
+      { "id": "27", "numbers": [58, 32, 33, 19, 37, 53], "specialNumber": 0 },
+      { "id": "28", "numbers": [48, 12, 35, 37, 33, 22], "specialNumber": 0 },
+      { "id": "29", "numbers": [39, 23, 29, 24, 47, 30], "specialNumber": 0 },
+      { "id": "30", "numbers": [23, 27, 58, 47, 9, 29], "specialNumber": 0 },
+      { "id": "31", "numbers": [49, 42, 14, 7, 16, 30], "specialNumber": 0 },
+      { "id": "32", "numbers": [21, 11, 23, 29, 9, 50], "specialNumber": 0 },
+      { "id": "33", "numbers": [20, 47, 33, 14, 2, 29], "specialNumber": 0 },
+      { "id": "34", "numbers": [37, 41, 50, 47, 57, 10], "specialNumber": 0 },
+      { "id": "35", "numbers": [6, 25, 34, 43, 21, 24], "specialNumber": 0 },
+      { "id": "36", "numbers": [24, 35, 18, 43, 49, 22], "specialNumber": 0 },
+      { "id": "37", "numbers": [41, 27, 34, 38, 13, 16], "specialNumber": 0 },
+      { "id": "38", "numbers": [24, 39, 31, 19, 42, 13], "specialNumber": 0 },
+      { "id": "39", "numbers": [45, 32, 30, 34, 27, 39], "specialNumber": 0 },
+      { "id": "40", "numbers": [45, 16, 43, 38, 2, 3], "specialNumber": 0 }
     ]
   }
 ]
