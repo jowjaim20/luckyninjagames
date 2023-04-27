@@ -723,6 +723,11 @@
     "saved": [],
     "previousResults": [
       {
+        "id": "6d0ee5fe-c34a-4a77-8887-c45b7b889723",
+        "numbers": [21, 7, 34, 1, 29, 25],
+        "specialNumber": 0
+      },
+      {
         "id": "042403",
         "numbers": [11, 45, 16, 13, 42, 2],
         "specialNumber": 0
@@ -1050,6 +1055,11 @@
     "specialNumberMax": 0,
     "saved": [],
     "previousResults": [
+      {
+        "id": "7a018d7b-10fb-4843-9a02-858929c323fc",
+        "numbers": [5, 48, 14, 9, 33, 2],
+        "specialNumber": 0
+      },
       {
         "id": "042401",
         "numbers": [44, 26, 51, 11, 21, 45],
